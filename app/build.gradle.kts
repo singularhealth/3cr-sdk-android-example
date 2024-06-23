@@ -50,9 +50,6 @@ android {
 }
 
 dependencies {
-//    implementation(libs.sdk.viewer.android)
-//    implementation(libs.sdk.viewer.android)
-//    implementation("health.singular.viewer3cr.sdk.android:unityLibrary:1.0.1")
     implementation("com.github.singularhealth:sdk-3cr-android:1.1.5")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
