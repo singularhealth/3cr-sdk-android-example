@@ -1,0 +1,5 @@
+<resources>
+<!--    <string name="app_name">Example 3CR Android</string>-->
+    <string name="app_name">3Dicom Core Renderer</string>
+    <string name="game_view_content_description">Core Renderer view</string>
+</resources>
