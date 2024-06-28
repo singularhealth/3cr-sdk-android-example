@@ -50,7 +50,7 @@ android {
 }
 
 dependencies {
-    implementation("com.github.singularhealth:sdk-3cr-android:1.1.5")
+    implementation("com.github.singularhealth:3cr-sdk-android:1.2.9")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

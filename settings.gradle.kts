@@ -10,7 +10,7 @@ pluginManagement {
         mavenCentral()
         maven("https://jitpack.io")
 
-        mavenLocal()
+//        mavenLocal()
         gradlePluginPortal()
     }
 }
