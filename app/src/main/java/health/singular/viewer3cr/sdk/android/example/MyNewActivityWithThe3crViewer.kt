@@ -8,20 +8,6 @@ import health.singular.viewer3cr.android.sdk.FrontEndInterfaces
 import health.singular.viewer3cr.android.sdk.FrontEndPayload
 import health.singular.viewer3cr.android.sdk.ViewerSdkActivity
 
-
-//const val sampleScanPayload = "{" +
-//        "\"Version\":\"0.0.1\"," +
-//        "\"Action\":\"fm_01\"," +
-//        "\"Interface\":\"file_management\"," +
-//        "\"Message\":\"{" +
-//            "\\\"Url\\\":\\\"https://webgl-3dr.singular.health/test_scans/01440d4e-8b04-4b90-bb2c-698535ce16d6/CHEST.3vxl\\\"," +
-//            "\\\"DecryptionKey\\\":{" +
-//                "\\\"Iv\\\":\\\"XEloSh+OcO7TG77au6HjPw==\\\"," +
-//                "\\\"Key\\\":\\\"KUc722X1y4w42M+jCf9a3+6EGz66z7UMWK3m2aMqGxM=\\\"" +
-//            "}" +
-//        "}\"," +
-//        "\"ReturnChannel\":null" +
-//    "}"
 const val sampleScanPayload = "{" +
     "\"Url\":\"https://webgl-3dr.singular.health/test_scans/01440d4e-8b04-4b90-bb2c-698535ce16d6/CHEST.3vxl\"," +
     "\"DecryptionKey\":{" +
